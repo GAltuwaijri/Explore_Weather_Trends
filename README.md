@@ -1,4 +1,4 @@
-# Explore_Weather_Trends
+# Explore Weather Trends
    In this project, we analyze local and global temperature data by using SQL to extract data from the temperatures database, And Excel worksheet to calculate the moving averages, Create a line chart. Then we will compare the temperature and trends in specific city to overall global temperature and trends.
 
 
@@ -18,4 +18,4 @@ This graph show that Riyadh city temperatures is higher than global temperatures
 
 
 ### License
-No-Show-Appointment is Copyright © 2020 Ghaida Altuwaijri. The content of this repository is licensed under a Creative Commons Attribution License
+Explore_Weather_Trends is Copyright © 2020 Ghaida Altuwaijri. The content of this repository is licensed under a Creative Commons Attribution License
